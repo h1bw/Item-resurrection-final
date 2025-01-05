@@ -29,3 +29,6 @@
 
 ### 2.9 修改物品类型
 ![image](/images/shunxutu9.png)
+
+## 3.类图
+![image](/images/leitu.png)
