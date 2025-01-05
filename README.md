@@ -17,3 +17,15 @@
 
 ### 2.5 显示物品列表
 ![image](/images/shunxutu5.png)
+
+### 2.6 登录系统
+![image](/images/shunxutu6.png)
+
+### 2.7 用户注册审批
+![image](/images/shunxutu7.png)
+
+### 2.8 添加物品类型
+![image](/images/shunxutu8.png)
+
+### 2.9 修改物品类型
+![image](/images/shunxutu9.png)
