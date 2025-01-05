@@ -8,3 +8,12 @@
 
 ### 2.2 搜索物品
 ![image](/images/shunxutu2.png)
+
+### 2.3 添加物品
+![image](/images/shunxutu3.png)
+
+### 2.4 删除物品
+![image](/images/shunxutu4.png)
+
+### 2.5 显示物品列表
+![image](/images/shunxutu5.png)
